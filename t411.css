@@ -603,3 +603,29 @@ a.BigButton:hover, a.BigButton:active {
     border: none;
     margin: 0;
 }
+
+.block>div.block {
+	padding: 0;
+}
+
+.plainform > div {
+	width: 100%;
+}
+
+.plainform > div > div {
+	width: 650px;
+    margin: 0 auto;
+}
+
+.plainform div > div.terms-wrapper {
+	width: auto;
+}
+
+.terms fieldset {
+	width: 20%;
+    height: 200px;
+}
+
+.terms select.multiple {
+	height: 175px;
+}
