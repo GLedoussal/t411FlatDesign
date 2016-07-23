@@ -629,3 +629,7 @@ a.BigButton:hover, a.BigButton:active {
 .terms select.multiple {
 	height: 175px;
 }
+
+.block h2+h3 {
+	margin-top:0;
+}
